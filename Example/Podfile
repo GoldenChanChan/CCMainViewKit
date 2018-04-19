@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CCMainViewKit_Example' do
+  pod 'CCMainViewKit', :path => '../'
+
+  target 'CCMainViewKit_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
