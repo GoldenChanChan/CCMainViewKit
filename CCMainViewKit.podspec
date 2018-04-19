@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CCMainViewKit'
-  s.version          = '0.1.0'
+  s.version          = '1.0'
   s.summary          = 'A short description of CCMainViewKit.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/chencheng2046@126.com/CCMainViewKit'
+  s.homepage         = 'https://github.com/GoldenChanChan/CCMainViewKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'chencheng2046@126.com' => 'chencheng2046@126.com' }
-  s.source           = { :git => 'https://github.com/chencheng2046@126.com/CCMainViewKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/GoldenChanChan/CCMainViewKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

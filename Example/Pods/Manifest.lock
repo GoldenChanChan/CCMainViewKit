@@ -1,0 +1,23 @@
+PODS:
+  - CCMainViewKit (1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CCMainViewKit (from `../`)
+  - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CCMainViewKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CCMainViewKit: b35a683bf7f03a70652d72b76c08c41cffcb1fcc
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 0299fb23322894bfd7b93a4cffb2a9b644fcd10b
+
+COCOAPODS: 1.4.0

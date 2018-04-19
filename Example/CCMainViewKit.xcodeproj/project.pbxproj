@@ -38,10 +38,10 @@
 
 /* Begin PBXFileReference section */
 		148A00A5BCB0AAA05F35F2AC /* Pods-CCMainViewKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CCMainViewKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CCMainViewKit_Example/Pods-CCMainViewKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		2ABF578E5610973E0F5C46C1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		2ABF578E5610973E0F5C46C1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		3CF43E7689A8564699271CDD /* Pods-CCMainViewKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CCMainViewKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CCMainViewKit_Tests/Pods-CCMainViewKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		474953277308A167311DB924 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		4DA090005FEAA5F72A59F2FA /* CCMainViewKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = CCMainViewKit.podspec; path = ../CCMainViewKit.podspec; sourceTree = "<group>"; };
+		474953277308A167311DB924 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		4DA090005FEAA5F72A59F2FA /* CCMainViewKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CCMainViewKit.podspec; path = ../CCMainViewKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		6003F58A195388D20070C39A /* CCMainViewKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CCMainViewKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
